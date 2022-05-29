@@ -1,5 +1,5 @@
 # The Rollercoasters Project
-Rollercoasters. Thrill, excitemente and fear. In order to identify the deadliest roller coasters, we will take the way to analyze if there is any relationship between accidents and rollercoasters' features - height, speed, material of construction, running time, location and other characteristics - which may shed some light to why some rollercoasters insist to fail more than others.
+Rollercoasters. Thrill, excitemente and fear. In order to identify the deadliest roller coasters, we will take the way to analyze if there is any relationship between accidents and rollercoasters' features - height, speed, material of construction, running time, location and other characteristics - which may shed some light to why some rollercoasters insist to fail more than others. Obviously maintenance is among the most important characteristics when it comes about rollercoster integrity but it is right now out of our scope - we will try to check correlation without causation for instance.
 
 ![Roller Coaster](https://i.ytimg.com/vi/p-fOfVsM7jE/maxresdefault.jpg)
 
