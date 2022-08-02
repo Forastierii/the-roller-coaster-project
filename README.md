@@ -9,3 +9,22 @@ We will be using the Roller coasters API (https://github.com/german-alvarez-dev/
 The first step of the work is focusing on cleaning both datasets and preparing them for a join, so we can have more information about the rollercoasters (through the API) which presented failures during the period studied (Rides Database) and hence establish (lack of) relationships between the features.
 
 This work will span through some months and we will be employing various data cleaning, data analysis and hopefuly, some machine learning techniques to cluster data and predict patterns of our beloved rollercoasters.
+
+So the steps will be:
+1. Data Engineering:
+  a. Extract the data from the API with a Python file, storing it in a database (MySQL for instance).
+  b. Extract the data from the rides database, storing it in a database (MySQL as well).
+  c. Plug the database into PowerBI.
+2. Data Science:
+  a. Analyzing correlations (with failures or within features) and trends.
+  b. Using machine learning techniques to predict:
+    - Probability of failure.
+    - Features of a rollercoaster based on other features.
+    - Grouping rollercoasters based on their failure type.
+    - Etc.
+3. Business Intelligence:
+  - Visualizing the rollercoasters based on their features.
+    - The fastest ones.
+    - The highest ones.
+    - The deadliest ones.
+  - The Most Common Failures.
