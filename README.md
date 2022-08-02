@@ -11,13 +11,14 @@ The first step of the work is focusing on cleaning both datasets and preparing t
 This work will span through some months and we will be employing various data cleaning, data analysis and hopefuly, some machine learning techniques to cluster data and predict patterns of our beloved rollercoasters.
 
 So the steps will be:
+
 1. Data Engineering:
-  a. Extract the data from the API with a Python file, storing it in a database (MySQL for instance).
-  b. Extract the data from the rides database, storing it in a database (MySQL as well).
-  c. Plug the database into PowerBI.
+  - Extract the data from the API with a Python file, storing it in a database (MySQL for instance).
+  - Extract the data from the rides database, storing it in a database (MySQL as well).
+  - Plug the database into PowerBI.
 2. Data Science:
-  a. Analyzing correlations (with failures or within features) and trends.
-  b. Using machine learning techniques to predict:
+  - Analyzing correlations (with failures or within features) and trends.
+  - Using machine learning techniques to predict:
     - Probability of failure.
     - Features of a rollercoaster based on other features.
     - Grouping rollercoasters based on their failure type.
