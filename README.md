@@ -30,6 +30,10 @@ So the steps will be:
     - The deadliest ones.
   - The Most Common Failures.
   
+  Also, we will do a sideline project on go-kart accidents and investigate on those, as part of a recap on PowerBI, Python and MySQL.
+  The final dashboard can be seen here:
+  https://app.powerbi.com/links/XDUZm4zUMV?ctid=bbdb3d4a-d8f5-4cca-9fb1-1b0e35d6a6bb&pbi_source=linkShare
+  
   ## (Not so fun) Facts
   - Action Park in New Jersey is known as the most dangerous amusement park in the country, six people passed away from 1980 to 1987. From 1984 to 1985 there were 26 head injuries and 14 broken bones reported. The park closed in 1996 after several personal injury lawsuits were filed against it.
   - In 2008 a teenager was decapitated by the Batman roller coaster at Six Flags Over Georgia when he jumped the fence to retrieve his hat.
